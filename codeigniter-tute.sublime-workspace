@@ -1,0 +1,858 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"query",
+				"query_vars"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ROOM",
+				"room_price"
+			],
+			[
+				"check",
+				"check_in"
+			],
+			[
+				"room",
+				"room_type"
+			],
+			[
+				"roo",
+				"room_type"
+			],
+			[
+				"che",
+				"check_out"
+			],
+			[
+				"CHE",
+				"check_in"
+			],
+			[
+				"val",
+				"validation_result"
+			],
+			[
+				"total",
+				"total_stay"
+			],
+			[
+				"cone",
+				"content"
+			],
+			[
+				"isnu",
+				"is_numeric"
+			],
+			[
+				"bookroom",
+				"book_room_price"
+			],
+			[
+				"book_room_pri",
+				"book_room_price_array"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"is",
+				"is_first_time"
+			],
+			[
+				"the_ti",
+				"the_title_attribute"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"post",
+				"post_type"
+			],
+			[
+				"cirl",
+				"circle-link"
+			],
+			[
+				"circleco",
+				"home-circles-cover"
+			],
+			[
+				"cicl",
+				"circle-1"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"home",
+				"homeCircles"
+			],
+			[
+				"circle",
+				"circle-1"
+			],
+			[
+				"tra",
+				"tray_width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"communities-re",
+				"communities-results-viewport-wrap"
+			],
+			[
+				"comm",
+				"communities"
+			],
+			[
+				"re",
+				"resize"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"communi",
+				"communities"
+			],
+			[
+				"com",
+				"communities_results_viewport"
+			],
+			[
+				"spinn",
+				"spinner"
+			],
+			[
+				"view",
+				"viewport_width"
+			],
+			[
+				"v",
+				"viewport_width"
+			],
+			[
+				"sc",
+				"scroll_padding"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"unb",
+				"unbindViewportNav"
+			],
+			[
+				"bin",
+				"bindViewportNav"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"rig",
+				"right-viewport-nav"
+			],
+			[
+				"un",
+				"unbindViewportNav"
+			],
+			[
+				"scr",
+				"scroll_incr"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ani",
+				"ani_time"
+			],
+			[
+				"lef",
+				"left_limit"
+			],
+			[
+				"left",
+				"left_limit"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"lab",
+				"label_text"
+			],
+			[
+				"new",
+				"new_filter_id"
+			],
+			[
+				"all",
+				"all_text"
+			],
+			[
+				"cat",
+				"cat_ID"
+			],
+			[
+				"filter-",
+				"filter-option"
+			],
+			[
+				"current",
+				"current-filter"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"ima",
+				"image_pre"
+			],
+			[
+				"imag",
+				"image"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"data",
+				"dataManager"
+			],
+			[
+				"Dat",
+				"dataManager"
+			],
+			[
+				"sub",
+				"subtype"
+			],
+			[
+				"tax",
+				"taxonomy"
+			],
+			[
+				"WP",
+				"WP_Ajax_Response"
+			],
+			[
+				"ter",
+				"term_link"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"pop",
+				"populateCriteriaByParent"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"commu",
+				"communities"
+			],
+			[
+				"ret",
+				"ret_ary"
+			],
+			[
+				"img",
+				"image1"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"this",
+				"this_circle"
+			],
+			[
+				"mouse",
+				"mouseenter"
+			],
+			[
+				"hom",
+				"home-circles-cover"
+			],
+			[
+				"show",
+				"show_on_right"
+			],
+			[
+				"sho",
+				"show_on_right"
+			],
+			[
+				"ci",
+				"circle"
+			],
+			[
+				"obj",
+				"obj_id"
+			],
+			[
+				"ob",
+				"obj_id"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"page",
+				"page_id"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"LISTEN",
+				"listen_items"
+			],
+			[
+				"ch",
+				"change_type_list"
+			],
+			[
+				"listen",
+				"listen_item"
+			],
+			[
+				"liste",
+				"listen_item"
+			],
+			[
+				"lis",
+				"listen_items"
+			],
+			[
+				"li",
+				"listen_items"
+			],
+			[
+				"play",
+				"player_thumb"
+			],
+			[
+				"pl",
+				"player_thumb"
+			],
+			[
+				"albu",
+				"album_index"
+			],
+			[
+				"sp",
+				"spinner_opts"
+			],
+			[
+				"chang",
+				"change_type"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"de",
+				"default_page"
+			],
+			[
+				"pa",
+				"page"
+			],
+			[
+				"ea",
+				"easeInOutSine"
+			],
+			[
+				"c",
+				"content_hat"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"di",
+				"Git: Diff Current File"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"difff",
+				"Git: Diff Current File"
+			],
+			[
+				"tidy",
+				"TidyHTML"
+			],
+			[
+				"stat",
+				"Git: Quick Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"git add cu",
+				"Git: Add Current File"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"t",
+				"TidyHTML"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/FEED ME 411/domains/feedme411.com/html/wp-content/themes/feedme411/index.php",
+		"/Applications/MAMP/htdocs/FEED ME 411/domains/feedme411.com/html/wp-content/themes/feedme411/header.php",
+		"/Applications/MAMP/htdocs/FEED ME 411/domains/feedme411.com/html/wp-content/themes/feedme411/inc/widgets.php",
+		"/Applications/MAMP/htdocs/FEED ME 411/domains/feedme411.com/html/wp-content/themes/feedme411/content-main.php",
+		"/Applications/MAMP/htdocs/FEED ME 411/domains/feedme411.com/html/wp-content/themes/feedme411/content-page.php",
+		"/Applications/MAMP/htdocs/FEED ME 411/domains/feedme411.com/html/wp-content/themes/feedme411/content.php",
+		"/Applications/MAMP/htdocs/FEED ME 411/domains/feedme411.com/html/wp-content/themes/feedme411/advanced-search.php",
+		"/Applications/MAMP/htdocs/FEED ME 411/domains/feedme411.com/html/wp-content/themes/feedme411/advanced-search-results-template.php",
+		"/Applications/MAMP/htdocs/FEED ME 411/domains/feedme411.com/html/wp-content/themes/feedme411/content-search.php",
+		"/Applications/MAMP/htdocs/FEED ME 411/domains/feedme411.com/html/wp-content/themes/feedme411/search.php",
+		"/Applications/MAMP/htdocs/MAGNUSON-KINGMAN/html/wp-content/themes/nice_hotel/template-homepage.php",
+		"/Applications/MAMP/htdocs/MAGNUSON-KINGMAN/html/wp-content/themes/nice_hotel/header.php",
+		"/Applications/MAMP/htdocs/MAGNUSON-KINGMAN/html/wp-settings.php",
+		"/Applications/MAMP/htdocs/MAGNUSON-KINGMAN/html/wp-config.php",
+		"/Applications/MAMP/htdocs/MAGNUSON-KINGMAN/html/wp-content/themes/nice_hotel/index.php",
+		"/Applications/MAMP/htdocs/MAGNUSON-KINGMAN/sftp-config.json",
+		"/Users/alan/Library/Application Support/Sublime Text 2/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/template-communities.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/template-communities-dev.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/style.css",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/lib/functions/scripts.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/single.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/page.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/home.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/functions.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/lib/scripts/jquery.easing.min.js",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/lib/scripts/spin.min.js",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/header.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/spin.min.js",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-admin/admin-ajax.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/single-communities.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/framework.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/plugins/TitanCreator/Custom_Post_maker/CustomPosts.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/plugins/TitanCreator/Custom_Post_maker/init.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/themes/fusion/single-portfolio.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/plugins/TitanCreator/init.php",
+		"/Applications/MAMP/htdocs/CORE-RENAISSANCE/sftp-config.json",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/plugins/document-gallery/style.css",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/themes/wp_muzak5-v3-wf/single.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/themes/wp_muzak5-v3/page.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/themes/wp_muzak5-v3/style.css",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/themes/wp_muzak5-v3-wf/functions/styles.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/themes/wp_muzak5-v3-wf/css/homepage_style.css",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/plugins/events-manager/classes/em-events.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/plugins/events-manager/widgets/em-events.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/themes/wp_muzak5-v3-wf/template-frontpage-glenhelen.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/plugins/events-manager/em-input-for-widget-never-published.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/plugins/events-manager/classes/em-event.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/plugins/events-manager/em-functions.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/themes/wp_muzak5-v3-wf/images/general/bg-repeat-xy.jpg",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/sftp-config.json",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/pinnacle.whitefrog.org/html/wp-content/themes/healthpress-theme/header.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/pinnacle.whitefrog.org/html/wp-content/themes/healthpress-theme/template-home-with-sidebar.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/pinnacle.whitefrog.org/html/wp-content/themes/healthpress-theme/sliders/slider.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/themes/wp_muzak5-v3/functions/shortcodes.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/themes/wp_muzak5-v3-wf/template-frontpage3.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/themes/wp_muzak5-v3/template-frontpage2.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/themes/wp_muzak5-v3/template-fullwidth.php",
+		"/Applications/MAMP/htdocs/GLEN-HELEN-RACEWAY/html/wp-content/themes/wp_muzak5-v3/functions.php",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-3.0/scripts/ajax.js",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-3.0/scripts/index.php",
+		"/Applications/MAMP/htdocs/Blake Neely/html/index-bak20130912.php",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-3.0/scripts/media.js",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-3.0/css/screen.css",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-2.0/scripts/ajax.js",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-3.0/scripts/ajax-bak-20130912.js",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-2.0/scripts/media.js",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-2.0/scripts/media_library.js",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-2.0/css/screen.css",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-2.0/include/navigation.php",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-2.0/include/generic_head.php",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-2.0/index.php",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-2.0/graphics/960-black-70per.png",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-2.0/assets/listen/player_thumbs/an-article-of-hope.jpg",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-2.0/content/home.php",
+		"/Applications/MAMP/htdocs/Blake Neely/html/Blake-Neely-2.0/content/look/look.php",
+		"/Users/alan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/alan/Downloads/02.wmv",
+		"/Users/alan/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/makeHELLO, Inc./makehello.com/fch/Alan-Sangma-makeHELLO-docs.zip",
+		"/Users/alan/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/alan/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Applications/MAMP/htdocs/YII/testdrive/index.php",
+		"/Applications/MAMP/htdocs/makeHELLO, Inc./sftp-config.json",
+		"/Applications/MAMP/htdocs/Blake Neely/sftp-config.json",
+		"/Users/alan/Library/Application Support/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/Users/alan/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/Blake Neely Server"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/FEED ME 411/domains/feedme411.com/html/wp-content/themes/feedme411",
+			"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/",
+			"/Applications/MAMP/htdocs/CORE-RENAISSANCE/html/wp-content/plugins/TitanCreator"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"add_query_vars_filter",
+			"pre_get_posts",
+			"is_search",
+			"search",
+			"<!--</",
+			"GET",
+			"$_GET",
+			"$query_obj",
+			"get_search_form",
+			"get_search",
+			"room_price",
+			"num_guests",
+			"check_out",
+			"check_in",
+			"room_type",
+			"$",
+			"jQuery",
+			"pre_submission",
+			"\"",
+			"'data",
+			"DATA",
+			"$GLOBALS",
+			"$data",
+			"div",
+			"_GET",
+			"type",
+			"total_stay",
+			"total_",
+			"room_",
+			"room_type",
+			"num_people",
+			"total_price",
+			"room",
+			"$book_room_price",
+			"date_to",
+			"date_from",
+			"full_name",
+			"name",
+			"method=",
+			"Name",
+			"$booking_page",
+			"book",
+			"explode",
+			"$book_room_type",
+			"book_room_type",
+			"$total_price",
+			"form",
+			"whitefrog4",
+			"title",
+			"post_more_link",
+			"becomea",
+			"become",
+			"column",
+			"portfolio",
+			"date",
+			"h2",
+			"fourth",
+			"column",
+			"width",
+			"img",
+			"getData",
+			"hover",
+			"image1",
+			"query",
+			"isNotFirstTime",
+			"isFirstTime",
+			"is_first_time = false;",
+			"filterData",
+			"subtype",
+			"function(){",
+			"post_more_link",
+			"fancy",
+			"fancy_read_more",
+			"prettyPhoto",
+			"style",
+			"$wp_query->",
+			"endif",
+			" -> ",
+			"endwhile",
+			";\n",
+			"home-circles",
+			"home-",
+			"header_inner",
+			"console.log",
+			"mouse",
+			"link",
+			"cover",
+			"homeCircles",
+			"filter-select",
+			"console",
+			"is_small",
+			"420",
+			"xhr",
+			"community-filter-grid",
+			"20px",
+			"is_small_screen",
+			"console",
+			"_tray",
+			"viewport_wrap",
+			"results_viewport",
+			"communities_",
+			"_",
+			"communities_results_viewport_wrap",
+			"$terms",
+			"$(",
+			"$",
+			".spin",
+			"new Sp",
+			"enqueue",
+			"MYSITE_PREFIX . '_prettyphoto'",
+			"pretty",
+			"enqueue_script",
+			"que",
+			"remainder",
+			"wrap",
+			"wrapper",
+			"communities_results",
+			"communities_results_wrapper",
+			"container",
+			"tray",
+			"communities_results_container",
+			"wrap",
+			"container",
+			"wrapper",
+			"jQuery('#communities_results_viewport').width()",
+			"jQuery('#communities_results_wrapper').width()",
+			"jQuery('#communities_results_viewport').width()",
+			"unbindViewportNav"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.git-commit":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fram",
+				"html/wp-content/themes/fusion/framework.php"
+			],
+			[
+				"scripts",
+				"html/wp-content/themes/fusion/lib/functions/scripts.php"
+			],
+			[
+				"comm",
+				"html/wp-content/themes/fusion/template-communities.php"
+			],
+			[
+				"init",
+				"html/wp-content/plugins/TitanCreator/Custom_Post_maker/init.php"
+			],
+			[
+				"custom",
+				"html/wp-content/plugins/TitanCreator/Custom_Post_maker/CustomPosts.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true
+}
